@@ -179,8 +179,12 @@ Data originally taken from: https://ieee-dataport.org/open-access/detecting-dama
   >> Streamlit is an open-source Python library that makes it easy to create and share beautiful, custom web apps for machine learning and data science.
 
 # Pipelines
+
+
 - Explain the pipelines for processing that you are building
 - Go through your development and add your source code
+
+![](./img/pipelines.png)
 
 ## Stream Processing
 ### Storing Data Stream
