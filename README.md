@@ -96,6 +96,8 @@ This is a meta repository that contains documentation and links to several GitHu
 - [Conclusion](#conclusion)
 - [Follow Me On](#follow-me-on)
 - [Appendix](#appendix)
+  - [Author](#author)
+  - [Show your support](#show-your-support)
 
 
 # The Data Sets
@@ -200,5 +202,18 @@ Write a comprehensive conclusion.
 Add the link to your LinkedIn Profile
 
 # Appendix
+
+## Author
+
+👤 **Kristijan Bakaric**
+
+* Website: 
+* Twitter: [@kbakaric1](https://twitter.com/kbakaric1)
+* Github: [@baky0905](https://github.com/baky0905)
+* LinkedIn: [@kristijanb](https://linkedin.com/in/kristijanb)
+
+## Show your support
+
+Give a ⭐️ if this project helped you!
 
 [Markdown Cheat Sheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
