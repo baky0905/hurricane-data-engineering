@@ -17,17 +17,17 @@
 
 This is a meta repository that contains documentation and links to several GitHub repositories each of them having a distinct purpose:
 
-1) Pre-processing of tweets about the hurricane harvey events, combining it with satelite images of the building s with and without damage and simulating a streaming data source by building a python program that sends requests to a Azure API endpoint (#TODO fire CLI)
+  1) Pre-processing of tweets about the hurricane harvey events, combining it with satelite images of the building s with and without damage and simulating a streaming data source by building a python program that sends requests to a Azure API endpoint (#TODO fire CLI)
   
-2) Azure streaming data pipeline that:
-  - Ingests tweets from the local source client via Azure API management having a Azure Function as a backend
-  - Utilizes Azure Event Hub as a message queue service
-  - Azure Function that takes messages from Azure Event Hub and writes them to Azure Cosmos Database
+  2) Azure streaming data pipeline that:
+     - Ingests tweets from the local source client via Azure API management having a Azure Function as a backend
+     - Utilizes Azure Event Hub as a message queue service
+     - Azure Function that takes messages from Azure Event Hub and writes them to Azure Cosmos Database
 
-- Azure batch data pipeline that:
-  - .
-  - .
-3) Python Streamlit Web App that ingests the data from existing Azure data pipelines
+  3) - Azure batch data pipeline that:
+     - .
+     - .
+  4) Python Streamlit Web App that ingests the data from existing Azure data pipelines
 
 
 **Tools:**
