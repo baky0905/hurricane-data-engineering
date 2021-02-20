@@ -52,9 +52,9 @@ This is a meta repository that contains documentation and links to several GitHu
   - [Visualizations](#visualizations)
 - [Demo](#demo)
 - [Conclusion](#conclusion)
-- [Follow Me On](#follow-me-on)
 - [Appendix](#appendix)
-  - [Author](#author)
+- [Author: 👤 **Kristijan Bakaric**](#author--kristijan-bakaric)
+- [Follow Me On](#follow-me-on)
   - [Show your support](#show-your-support)
 
 
@@ -203,16 +203,25 @@ Write a comprehensive conclusion.
 - What major things have you learned
 - What were the biggest challenges
 
-# Follow Me On
-Add the link to your LinkedIn Profile
 
 # Appendix
 
-## Author
+How to Articles:
 
-👤 **Kristijan Bakaric**
+1. [Setup basic authentication policies for inbound REST API requests in Azure API Management service](./articles/2020-02-20_apim-policies.md). It includes using Azure Keyvault for storing username and password and named values from APIM for fetching and holding them for dynamic check in the inbound policies for POST requests.
+   
+2. [Logging of application level messages in Azure Functions, Application Insights and exporting queries to Power BI](./)
+   
+3. [Cosmos DB](./)
 
-* Website: 
+
+
+# Author: 👤 **Kristijan Bakaric**
+
+
+# Follow Me On
+
+* Website: [personal-website](https://baky0905.github.io/personal-website/)
 * Twitter: [@kbakaric1](https://twitter.com/kbakaric1)
 * Github: [@baky0905](https://github.com/baky0905)
 * LinkedIn: [@kristijanb](https://linkedin.com/in/kristijanb)
