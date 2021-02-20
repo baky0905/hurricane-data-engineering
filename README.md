@@ -4,7 +4,7 @@
 # 🌪️🌪️ Hurricane Harvey  Tweets and Satelite Images - Azure Data Pipelines and Data Visualization 🌪️🌪️
 
 <p align="center">
-<img src="https://images.unsplash.com/photo-1559510981-10719ce4266a?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=3900&q=80" alt="">
+<img width="640px"  src="https://images.unsplash.com/photo-1559510981-10719ce4266a?ixid=MXwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHw%3D&ixlib=rb-1.2.1&auto=format&fit=crop&w=3900&q=80" alt="">
 <p>
 
 # Introduction & Goals
@@ -19,7 +19,7 @@ This is a meta repository that contains documentation and links to several GitHu
   
   2) Data Pipelines:
    
-      2.1) Azure streaming data pipeline that:
+      2.1) [hurricane-streaming-az-funcs](https://github.com/baky0905/hurricane-streaming-az-funcs) Azure streaming data pipeline that:
         - Ingests tweets from the local source client via Azure API management having a Azure Function as a backend
         - Utilizes Azure Event Hub as a message queue service
         - Azure Function that takes messages from Azure Event Hub and writes them to Azure Cosmos Database
@@ -29,6 +29,34 @@ This is a meta repository that contains documentation and links to several GitHu
         - .
   
   3) [hurricane-streamlit](./). Python Streamlit Web App that gets data from Cosmos DB.
+
+# Contents
+
+- [⚙️ Data Engineering Project ⚙️](#️-data-engineering-project-️)
+- [🌪️🌪️ Hurricane Harvey  Tweets and Satelite Images - Azure Data Pipelines and Data Visualization 🌪️🌪️](#️️-hurricane-harvey--tweets-and-satelite-images---azure-data-pipelines-and-data-visualization-️️)
+- [Introduction & Goals](#introduction--goals)
+- [Contents](#contents)
+- [The Data Sets](#the-data-sets)
+- [Used Tools](#used-tools)
+  - [Connect](#connect)
+  - [Buffer](#buffer)
+  - [Processing](#processing)
+  - [Storage](#storage)
+  - [Hosting](#hosting)
+  - [Visualization](#visualization)
+- [Pipelines](#pipelines)
+  - [Stream Processing](#stream-processing)
+    - [Storing Data Stream](#storing-data-stream)
+    - [Processing Data Stream](#processing-data-stream)
+  - [Batch Processing](#batch-processing)
+  - [Visualizations](#visualizations)
+- [Demo](#demo)
+- [Conclusion](#conclusion)
+- [Follow Me On](#follow-me-on)
+- [Appendix](#appendix)
+  - [Author](#author)
+  - [Show your support](#show-your-support)
+
 
 
 **Tools:**
@@ -71,33 +99,6 @@ This is a meta repository that contains documentation and links to several GitHu
 
 
 **Conclusion:**
-
-# Contents
-
-- [⚙️ Data Engineering Project ⚙️](#️-data-engineering-project-️)
-- [🌪️🌪️ Hurricane Harvey  Tweets and Satelite Images - Azure Data Pipelines and Data Visualization 🌪️🌪️](#️️-hurricane-harvey--tweets-and-satelite-images---azure-data-pipelines-and-data-visualization-️️)
-- [Introduction & Goals](#introduction--goals)
-- [Contents](#contents)
-- [The Data Sets](#the-data-sets)
-- [Used Tools](#used-tools)
-  - [Connect](#connect)
-  - [Buffer](#buffer)
-  - [Processing](#processing)
-  - [Storage](#storage)
-  - [Hosting](#hosting)
-  - [Visualization](#visualization)
-- [Pipelines](#pipelines)
-  - [Stream Processing](#stream-processing)
-    - [Storing Data Stream](#storing-data-stream)
-    - [Processing Data Stream](#processing-data-stream)
-  - [Batch Processing](#batch-processing)
-  - [Visualizations](#visualizations)
-- [Demo](#demo)
-- [Conclusion](#conclusion)
-- [Follow Me On](#follow-me-on)
-- [Appendix](#appendix)
-  - [Author](#author)
-  - [Show your support](#show-your-support)
 
 
 # The Data Sets
