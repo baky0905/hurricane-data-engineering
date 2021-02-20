@@ -56,6 +56,7 @@ This is a meta repository that contains documentation and links to several GitHu
 - [Author: 👤 **Kristijan Bakaric**](#author--kristijan-bakaric)
 - [Follow Me On](#follow-me-on)
   - [Show your support](#show-your-support)
+  - [Links used along the project](#links-used-along-the-project)
 
 
 
@@ -231,3 +232,7 @@ How to Articles:
 Give a ⭐️ if this project helped you!
 
 [Markdown Cheat Sheet](https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet)
+
+
+## Links used along the project
+
