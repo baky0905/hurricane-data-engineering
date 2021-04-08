@@ -25,12 +25,9 @@ This is a meta repository that contains documentation and links to several GitHu
         - Azure Function that takes messages from Azure Event Hub and writes them to Azure Cosmos Database
 
 
-# Contents
-
 - [⚙️ Data Engineering Project ⚙️](#️-data-engineering-project-️)
 - [🌪️🌪️ Hurricane Harvey  Tweets and Satelite Images - Azure Data Pipelines and Data Visualization 🌪️🌪️](#️️-hurricane-harvey--tweets-and-satelite-images---azure-data-pipelines-and-data-visualization-️️)
 - [Introduction & Goals](#introduction--goals)
-- [Contents](#contents)
 - [The Data Sets](#the-data-sets)
 - [Used Tools](#used-tools)
   - [Connect](#connect)
@@ -39,10 +36,15 @@ This is a meta repository that contains documentation and links to several GitHu
   - [Storage](#storage)
   - [Visualization](#visualization)
 - [Pipeline](#pipeline)
+  - [Introduction](#introduction)
+  - [Data Preprocessing](#data-preprocessing)
+  - [Azure APIM, Azure Functions, Blob Storage](#azure-apim-azure-functions-blob-storage)
+  - [Azure Event Hubs, Function and Cosmos DB](#azure-event-hubs-function-and-cosmos-db)
 - [Author: 👤 **Kristijan Bakaric**](#author--kristijan-bakaric)
 - [Follow Me On](#follow-me-on)
   - [Show your support](#show-your-support)
   - [Links used along the project](#links-used-along-the-project)
+
 
 
 
