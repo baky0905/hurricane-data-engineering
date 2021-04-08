@@ -27,7 +27,7 @@ This is a meta repository that contains documentation and links to several GitHu
 
 In addition, I have written four posts with some more details related to the data streaming pipeline, and published it on my personal website:
    - [Introduction](https://baky0905.github.io/personal-website/blog/2021/02/28/data-engineering-part1)
-   - [Date Preprocessing](https://baky0905.github.io/personal-website/blog/2021/03/06/data-engineering-part2)
+   - [Data Preprocessing](https://baky0905.github.io/personal-website/blog/2021/03/06/data-engineering-part2)
    - [Azure APIM, Azure Functions, Blob Storage](https://baky0905.github.io/personal-website/blog/2021/03/07/data-engineering-part3)
    - [Azure Event Hubs, Function and Cosmos DB](https://baky0905.github.io/personal-website/blog/2021/03/08/data-engineering-part4)
 
